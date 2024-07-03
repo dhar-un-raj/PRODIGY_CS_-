@@ -32,7 +32,7 @@ This packet sniffer tool captures and analyzes network packets, displaying relev
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/dhar-un-raj/packet-sniffer-tool.git
+    git clone https://github.com/dhar-un-raj/PRODIGY_CS_5.git
     cd packet-sniffer-tool
     ```
 
